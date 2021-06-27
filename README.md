@@ -1,6 +1,5 @@
 # News-Classification
-
-##About News Classification
+## Business Problem
 Text classification classifies text documents on the basis of words, phrases, combination of words etc. into predefined class labels. It classifies news data into six predefined classes namely Business, Tech, Sport, Health, Politics and Entertainment"
 
 ##Description
